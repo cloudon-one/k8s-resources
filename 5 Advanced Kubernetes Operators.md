@@ -1,4 +1,4 @@
-# 5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About
+# 5 Advanced Kubernetes Operators
 
 # **Introduction**
 
