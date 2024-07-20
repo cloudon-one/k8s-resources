@@ -9,3 +9,5 @@
 ## [Kubernetes networking](https://github.com/cloudon-one/k8s-resources/blob/main/k8s%20networking.md)
 
 ## [5 Advanced Kubernetes Operators](https://github.com/cloudon-one/k8s-resources/blob/main/5%20Advanced%20Kubernetes%20Operators.md)
+
+## [The Kubernetes Troubleshooting Handbook](https://github.com/cloudon-one/k8s-resources/blob/main/The%20Kubernetes%20Troubleshooting%20Handbook.md)
