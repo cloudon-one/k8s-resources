@@ -1,7 +1,5 @@
 # k8s networking
 
-[https://medium.com/@tonylixu/k8s-how-does-a-pod-acquire-an-ip-address-06bef6f50288](https://medium.com/@tonylixu/k8s-how-does-a-pod-acquire-an-ip-address-06bef6f50288)
-
 One of the fundamental requirements of the Kubernetes networking model is that each Pod must have its own IP address for communication. Many newcomers to Kubernetes are initially unclear on how IP addresses are assigned to each Pod.
 
 They understand how various components function independently but may not grasp how these components work together. For instance, they might know what CNI plugins are but not how they are invoked. In this article, I will try to explain how various networking components interact within a Kubernetes cluster and assist in assigning IP addresses to each Pod.
