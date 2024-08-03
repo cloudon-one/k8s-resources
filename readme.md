@@ -18,3 +18,4 @@
 
 ## [Kubernetes Hardening](https://github.com/cloudon-one/k8s-resources/blob/main/Kubernetes%20Hardening.md)
 
+## [E2E EKS with Jenkins and ArgoCD Manual](https://github.com/cloudon-one/k8s-resources/blob/main/End-to-End%20DevSecOps%20Kubernetes.md)
