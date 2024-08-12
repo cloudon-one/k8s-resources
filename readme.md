@@ -19,3 +19,5 @@
 ## [Kubernetes Hardening](https://github.com/cloudon-one/k8s-resources/blob/main/Kubernetes%20Hardening.md)
 
 ## [E2E EKS with Jenkins and ArgoCD Manual](https://github.com/cloudon-one/k8s-resources/blob/main/End-to-End%20DevSecOps%20Kubernetes.md)
+
+## [GitOps Secrets with Argo CD, Hashicorp Vault and the External Secret Operator](https://github.com/cloudon-one/k8s-resources/blob/main/GitOps%20Secrets%20with%20Argo%20CD%2C%20Hashicorp%20Vault.md)
