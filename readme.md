@@ -23,3 +23,5 @@
 ## [GitOps Secrets with Argo CD, Hashicorp Vault and the External Secret Operator](https://github.com/cloudon-one/k8s-resources/blob/main/GitOps%20Secrets%20with%20Argo%20CD%2C%20Hashicorp%20Vault.md)
 
 ## [Kubernetes: monitoring Events with kubectl and Grafana Loki](https://github.com/cloudon-one/k8s-resources/blob/main/Kubernetes%20monitoring%20Events%20with%20kubectl%20and%20Graf%20ana%20Lokio.md)
+
+## [Best Practices for Writing Kubernetes YAML Manifests](https://github.com/cloudon-one/k8s-resources/blob/main/Best%20Practices%20for%20Writing%20Kubernetes%20YAML%20Manifest.md)
